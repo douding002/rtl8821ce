@@ -1,4 +1,4 @@
-## about rtl8821ce
+## rtl8821ce
 https://github.com/endlessm/linux/tree/master/drivers/net/wireless/rtl8821ce  
 Thinkpad E470c,  
 wireless driver  
@@ -9,6 +9,7 @@ Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC
 Line "export TopDIR ?= ..." to "export TopDIR ?= PATH TO EXTRACTED DIRECTORY".  
 
 2. Kernel version / 内核版本,源项目更新最新的源代码或许能支持更新的内核  
+启动时Ubuntu高级选项切换内核版本  
 sudo uname -r  
 4.11-->  
 4.13.0-37-generic  
